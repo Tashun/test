@@ -5,6 +5,7 @@ public class Main {
         System.out.println(7);
         System.out.println(2);
         System.out.println(9);
+        System.out.println(10);
 
     }
     public void iniy(){}
