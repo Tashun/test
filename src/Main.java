@@ -7,6 +7,9 @@ public class Main {
         System.out.println(9);
         System.out.println(10);
         System.out.println(15);
+        System.out.println(45);
+        System.out.println();
+        System.out.println("21315");
 
     }
     public void iniy(){}
