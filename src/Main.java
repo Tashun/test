@@ -14,6 +14,7 @@ public class Main {
         System.out.println("com");
         System.out.println("21315");
         System.out.println("change");
+        System.out.println("so");
 
     }
     public void iniy(){}
