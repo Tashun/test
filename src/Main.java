@@ -7,9 +7,15 @@ public class Main {
         System.out.println(9);
         System.out.println(10);
         System.out.println(15);
+        System.out.println(15);
         System.out.println(16);
         System.out.println(17);
         System.out.println(45);
+        System.out.println();
+        System.out.println("21315");
+        System.out.println("tas");
+        System.out.println("master");
+        System.out.println("com");
         System.out.println();
         System.out.println("21315");
         System.out.println("tas");
