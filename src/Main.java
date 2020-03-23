@@ -21,6 +21,8 @@ public class Main {
         System.out.println("master");
         System.out.println("com");
         System.out.println("change");
+        System.out.println(15);
+        System.out.println(16);
 
     }
     public void iniy(){}
