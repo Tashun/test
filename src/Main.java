@@ -15,7 +15,7 @@ public class Main {
         System.out.println("tas");
         System.out.println("master");
         System.out.println("com");
-        System.out.println();
+        System.out.println("change");
 
     }
     public void iniy(){}
